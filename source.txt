@@ -1,0 +1,95 @@
+# Sources from https://zh.wikipedia.org/wiki/%E8%87%AA%E7%94%B1%E5%8F%8A%E5%BC%80%E6%94%BE%E6%BA%90%E4%BB%A3%E7%A0%81%E8%BD%AF%E4%BB%B6%E5%88%97%E8%A1%A8
+# AI
+https://github.com/opencog/opencog.git
+https://github.com/andrewkirillov/AForge.NET.git
+https://github.com/opencv/opencv.git
+https://github.com/ros/ros.git
+# Computer Emulation
+https://github.com/sobotka/blender.git
+https://github.com/sympy/sympy.git
+https://github.com/FlightGear/flightgear.git
+# Financial
+https://github.com/adempiere/adempiere.git
+https://github.com/bitcoin/bitcoin.git
+https://github.com/bonitasoft/bonita-engine.git
+https://github.com/civicrm/civicrm-core.git
+https://github.com/Dolibarr/dolibarr.git
+https://github.com/FrontAccountingERP/FA.git
+https://github.com/Gnucash/gnucash.git
+https://github.com/grisbi/grisbi.git
+https://github.com/KDE/kmymoney.git
+# Library
+https://github.com/Koha-Community/Koha.git
+# Image Editor
+https://github.com/darktable-org/darktable.git
+https://github.com/KDE/digikam.git
+https://github.com/GNOME/gimp.git
+https://gitlab.com/inkscape/inkscape.git
+# Dynamic
+https://github.com/geogebra/geogebra.git
+https://github.com/yuryfdr/kseg.git
+# Backup
+https://github.com/zmanda/amanda.git
+https://github.com/Distrotech/cpio.git
+https://github.com/stevenshiau/clonezilla.git
+# DB
+https://github.com/MariaDB/server.git
+https://github.com/postgres/postgres.git
+https://github.com/antirez/redis.git
+https://github.com/mackyle/sqlite.git
+https://github.com/mongodb/mongo.git
+# Disk Partitioning
+https://github.com/Distrotech/parted.git
+https://github.com/GNOME/gparted.git
+https://github.com/KDE/partitionmanager.git
+https://github.com/OpenMandrivaSoftware/qtparted.git
+# Archiver
+https://github.com/kornelski/7z.git
+https://github.com/enthought/bzip2-1.0.6.git
+https://github.com/GNOME/file-roller.git
+https://github.com/svn2github/freearc.git
+https://github.com/Distrotech/gzip.git
+https://github.com/LuaDist/zip.git
+https://github.com/lz4/lz4.git
+https://github.com/upx/upx.git
+# Email
+https://archive.mozilla.org/pub/thunderbird/releases/9.0/source/thunderbird-9.0.source.tar.bz2
+ftp://ftp.mutt.org/pub/mutt/mutt-1.10.1.tar.gz
+# Office
+https://github.com/LibreOffice/core.git
+https://github.com/apache/openoffice.git
+https://github.com/KDE/calligra.git
+# Remote
+https://github.com/OpenVPN/openvpn.git
+https://github.com/TigerVNC/tigervnc.git
+# Web Browser
+https://github.com/chromium/chromium.git
+https://github.com/mozilla/gecko-dev.git
+# Crawler
+https://github.com/curl/curl.git
+https://github.com/xroche/httrack.git
+https://git.savannah.gnu.org/git/wget.git
+
+# http://noteoffreedomsoftware.blogspot.com/2017/04/windows.html
+https://github.com/audacious-media-player/audacious.git
+https://github.com/videolan/vlc.git
+https://github.com/OpenShot/openshot-qt.git
+https://github.com/d2phap/ImageGlass.git
+https://github.com/mirror/vbox.git
+https://svn.filezilla-project.org/svn/FileZilla3/trunk
+
+# http://wiki.kmu.edu.tw/index.php/%E8%87%AA%E7%94%B1%E8%BB%9F%E9%AB%94%E6%8E%A8%E5%BB%A3
+https://github.com/pdfforge/PDFCreator.git
+https://github.com/kovidgoyal/calibre.git
+https://github.com/wireshark/wireshark.git
+https://github.com/kindahl/infrarecorder.git
+https://github.com/notepad-plus-plus/notepad-plus-plus.git
+https://github.com/Cisco-Talos/clamav-devel.git
+https://svn.osdn.net/svnroot/tortoisesvn/
+
+# https://bartvandewoestyne.github.io/osswin/
+https://github.com/audacity/audacity.git
+http://www.fosshub.com/InfraRecorder.html/ir053_src.zip
+https://github.com/giorgiotani/PeaZip.git
+
+# https://docs.google.com/spreadsheets/u/1/d/1bRC7ouKg5hF1SUwsrcvtyEtcBc9_elt08gxgIku7wd4/pubhtml
